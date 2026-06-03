@@ -1,0 +1,22 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+{
+  "number": 1,
+  "state": "open",
+  "title": "Bug fix revert",
+  "head": {
+    "label": "CTMT1406:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "CTMT1406/github-final-project",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
