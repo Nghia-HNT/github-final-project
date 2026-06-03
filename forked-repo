@@ -1,0 +1,13 @@
+curl https://api.github.com/repos/CTMT1406/github-final-project
+
+{
+  "name": "simple-interest-calculator",
+  "full_name": "CTMT1406/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
